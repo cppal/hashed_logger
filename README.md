@@ -1,5 +1,5 @@
 # hashed_logger
-demo of logger with hashed log messages
+demo of logger with hashed log messages, as presented at CppCon and Core C++
 
 This demo contains a Visual Studio solution with 2 projects:
 - production - emulates production code, outputs obfuscated log entries
